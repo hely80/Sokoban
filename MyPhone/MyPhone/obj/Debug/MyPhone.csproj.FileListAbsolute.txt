@@ -1,0 +1,6 @@
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\bin\Debug\MyPhone.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\obj\Debug\MyPhone.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\bin\Debug\MyPhone.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\bin\Debug\MyPhone.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\obj\Debug\MyPhone.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игры со Спрайтами\MyPhone\MyPhone\obj\Debug\MyPhone.pdb

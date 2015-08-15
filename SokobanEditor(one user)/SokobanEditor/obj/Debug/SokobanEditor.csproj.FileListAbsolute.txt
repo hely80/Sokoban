@@ -1,0 +1,18 @@
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.Properties.Resources.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.SokobanEditor.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csproj.GenerateResource.Cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\bin\Debug\SokobanEditor.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.Properties.Resources.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.SokobanEditor.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.csproj.GenerateResource.Cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\bin\Debug\SokobanEditor.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\bin\Debug\SokobanEditor.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanEditor(one user)\SokobanEditor\obj\Debug\SokobanEditor.pdb

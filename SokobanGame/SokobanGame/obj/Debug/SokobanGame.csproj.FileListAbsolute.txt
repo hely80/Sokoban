@@ -1,0 +1,11 @@
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\bin\Debug\SokobanGame.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\bin\Debug\SokobanGame.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\bin\Debug\SokobanGame.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.WelcomSokoban.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.Properties.Resources.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.csproj.GenerateResource.Cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.Labirint.resources
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SokobanGame\SokobanGame\obj\Debug\SokobanGame.FinighSocoban.resources

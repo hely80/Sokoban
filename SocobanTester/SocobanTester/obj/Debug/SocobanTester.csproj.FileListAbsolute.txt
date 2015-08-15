@@ -1,0 +1,6 @@
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\bin\Debug\SocobanTester.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\bin\Debug\SocobanTester.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\bin\Debug\SocobanTester.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\obj\Debug\SocobanTester.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\obj\Debug\SocobanTester.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanTester\SocobanTester\obj\Debug\SocobanTester.pdb

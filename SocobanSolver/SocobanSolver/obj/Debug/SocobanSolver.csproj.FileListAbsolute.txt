@@ -1,0 +1,6 @@
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\bin\Debug\SocobanSolver.exe.config
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\bin\Debug\SocobanSolver.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\bin\Debug\SocobanSolver.pdb
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\obj\Debug\SocobanSolver.csprojResolveAssemblyReference.cache
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\obj\Debug\SocobanSolver.exe
+C:\Users\hely\Documents\Visual Studio 2013\Projects\Курс Игра СОКОБАН\SocobanSolver\SocobanSolver\obj\Debug\SocobanSolver.pdb
